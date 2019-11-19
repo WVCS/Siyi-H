@@ -1,0 +1,42 @@
+
+  body {
+  background-color: #F4D35E;
+  
+}
+
+button {
+  background-color: #FFB800;
+  color: #0E103D;
+  font-size: 40px
+}
+
+h1 {
+  font-family:courier;
+  color: #F95738;
+  text-align: center;
+  font-size: 150px;
+}
+
+h2 {
+  font-size: 80px;
+  text-align: center;
+  color: #0D3B66
+}
+
+a {
+  font-size: 35px;
+  padding: 600px;
+}
+
+p {
+  font-size: 40px;
+  color: #272727;
+  font-family:verdana;
+}
+
+u1 {
+  font-size: 40px;
+  color: #3F7CAC;
+  
+}
+
