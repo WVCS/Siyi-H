@@ -1,18 +1,17 @@
-
-  body {
-  background-color: #F4D35E;
+body {
+  background-color: #D8D0C1;
   
 }
 
 button {
-  background-color: #FFB800;
+  background-color: #E0D3DE;
   color: #0E103D;
   font-size: 40px
 }
 
 h1 {
   font-family:courier;
-  color: #F95738;
+  color: #6F686D;
   text-align: center;
   font-size: 150px;
 }
@@ -36,7 +35,6 @@ p {
 
 u1 {
   font-size: 40px;
-  color: #3F7CAC;
+  color: #8E6C88;
   
 }
-
